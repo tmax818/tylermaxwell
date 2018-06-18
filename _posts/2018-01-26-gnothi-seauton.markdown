@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rails Project"
+title:  "Gnōthi Seauton"
 date:   2018-01-26 19:43:10 -0700
 comments: true
 categories: programming

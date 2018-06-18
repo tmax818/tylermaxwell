@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Rails Project"
+title:  "CLI Project"
 date:   2018-05-09 19:43:10 -0700
 comments: true
-categories: rails ruby
+categories: ruby Flatiron
 ---
 # CLI Data Gem Project
 
