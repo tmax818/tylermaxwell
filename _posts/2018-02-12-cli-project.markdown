@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Project"
-date:   2018-05-09 19:43:10 -0700
+date:   2018-02-12 19:43:10 -0700
 comments: true
 categories: ruby Flatiron
 ---
