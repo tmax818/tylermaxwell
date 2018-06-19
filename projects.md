@@ -2,7 +2,7 @@
 title: Projects
 layout: page
 ---
-# Links
+# Projects
 
 The following are links to various projects I have made...
 
